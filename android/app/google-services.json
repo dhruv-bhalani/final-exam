@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691409550651",
+    "project_id": "final-exma",
+    "storage_bucket": "final-exma.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691409550651:android:911ca8d7678cbb737e0b1e",
+        "android_client_info": {
+          "package_name": "com.example.final_exma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWvceMH2D-0_dQ8jQ9ebW7rhVgY7dtxjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
