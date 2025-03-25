@@ -33,8 +33,6 @@ Flutter (Dart)
 SQLite (Local Database)
 
 Firebase Firestore (Cloud Backup)
-![WhatsApp Image 2025-03-25 at 16 54 28_7f713b8f](https://github.com/user-attachments/assets/17045a86-8cd1-4ed9-a3a9-f2bcbdd90a42)
-
 
 
 ## Screenshot:-
