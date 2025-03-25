@@ -1,4 +1,4 @@
-# final_exma
+# final_exam
 
 ## 📖 Contact Diary App
 A Flutter Contact Diary App using SQLite for local storage and Firebase Firestore for cloud backup. This app allows users to manage contacts with CRUD operations, real-time calling/SMS, and cloud backup functionality.
